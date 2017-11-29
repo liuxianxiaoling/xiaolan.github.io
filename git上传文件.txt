@@ -1,0 +1,14 @@
+1===============-------------============
+¡­or create a new repository on the command line
+
+echo "# dsadasd" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/liuxianxiaoling/dsadasd.git
+git push -u origin master
+
+2=====================--------------------=================
+git remote add origin https://github.com/liuxianxiaoling/dsadasd.git
+git push -u origin master
+
